@@ -31,5 +31,17 @@ for word,freq in word_freq.items():
 ```
 
 ### 執行結果
+1.沒有單字重複
+2.每個單字重複的次數：
+  Cheese 重複 234 次
+  Pizza 重複 83 次
+  Coke 重複 145 次
+  Steak 重複 46 次
+  Burger 重複 196 次
+  Fries 重複 76 次
+  Rib 重複 33 次
+  Taco 重複 57 次
+  Pho 重複 19 次
+  Potato 重複 3 次
 ![GitHub Logo](作業2圖.png)
 
